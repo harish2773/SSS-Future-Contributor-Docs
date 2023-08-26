@@ -86,3 +86,23 @@ The digital revolution, characterized by the rapid expansion of Internet connect
 
 Recognizing this pressing concern, the Security Header Checker API was introduced this summer. Its primary function is to provide users with a quick and efficient tool to inspect any link's browsing status. By inputting a link, users are instantly informed about its safety credentials. The API essentially evaluates the header of the web link to discern its legitimacy and potential risks. Such a header checker is invaluable in today's cyber landscape, acting as a digital guardian for users.
 
+## Report API
+Machine Learning (ML) models, while powerful and increasingly sophisticated, are not infallible. Their accuracy and reliability heavily depend on the quality and size of the training data provided to them. A vast and diverse dataset is crucial for these models to learn and make accurate predictions. Up until this point, there has been a noticeable gap in our system: the inability for users to give feedback on the model's outcomes.
+
+Addressing this, we're excited to usher in a new era of user engagement with our product. Users now have the capability to critically assess the content they encounter. If they come across any posts they deem as Fake or Toxic, they can actively report them. This not only provides valuable feedback to refine and enhance our ML model but also empowers users to curate their digital environment.
+
+Once flagged, the system will treat these posts like other reported content. Users will see options to hide the flagged posts, ensuring that their browsing experience remains unhindered and aligns with their preferences. This interactive feature not only enriches the user experience but also paves the way for continuous improvement of our ML systems.
+
+### Auto Hide/ Unhide Flagged Posts
+
+In the previous deployment of our Chrome extension, the tool could identify and label posts deemed as toxic or clickbaits. However, it merely flagged them without taking the further step of concealing them from users. Recognizing the potential for enhancing user experience, this year brought about an important upgrade: the auto-hiding/unhiding feature. Instead of users manually hiding flagged content, the extension now automatically does this for them. If a post is identified as potentially harmful or misleading, it is immediately hidden, though users retain the power to unhide if they choose. The result of this feature is a more streamlined and relevant browsing experience, minimizing distractions and ensuring that users encounter only content that aligns with their preferences and values.
+
+More information can be found here: (<https://gitlab.com/aossie/social-street-smart/-/blob/gsoc-2023/Docs/GSoC/2021/HarshMishra.md?ref_type=heads>)
+
+### Google Fact Checker Functionality
+
+In the previous deployment of our Chrome extension, the tool could identify and label posts deemed as toxic or clickbaits. However, it merely flagged them without taking the further step of concealing them from users. Recognizing the potential for enhancing user experience, this year brought about an important upgrade: the auto-hiding/unhiding feature. Instead of users manually hiding flagged content, the extension now automatically does this for them. If a post is identified as potentially harmful or misleading, it is immediately hidden, though users retain the power to unhide if they choose. The result of this feature is a more streamlined and relevant browsing experience, minimizing distractions and ensuring that users encounter only content that aligns with their preferences and values.
+
+
+
+
