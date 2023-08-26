@@ -79,3 +79,10 @@ The Disinformation in Images API requires you to generate a set of custom API ke
 In our modern digital age, the Internet is rife with potential threats and cyber-attacks. SSL certificates serve as a digital shield, ensuring the safe transmission of user data over the web. More than just data protection, they thwart malicious actors from replicating or 'spoofing' genuine websites. Moreover, these certificates authenticate and confirm the legitimacy of website ownership, providing an additional layer of trust. Recognizing the importance of such verification, I launched the SSL Validator API this summer. This tool empowers users by allowing them to input any web link, subsequently retrieving detailed information about its associated SSL certificate, fostering confidence in online interactions.
 
 More information can be found here: (<https://gitlab.com/aossie/social-street-smart/-/blob/gsoc-2023/Docs/GSoC/2022/DivyanshuSingh.md?ref_type=heads>)
+
+## Security Header API
+
+The digital revolution, characterized by the rapid expansion of Internet connections, has brought countless benefits to modern society. However, it has also paved the way for an alarming surge in cyberattack incidents. As people navigate the vast landscape of the web, especially on social media platforms, they are often unknowingly exposed to a plethora of malicious links. These deceitful links can compromise personal data, inflict malware, or even engage in phishing activities.
+
+Recognizing this pressing concern, the Security Header Checker API was introduced this summer. Its primary function is to provide users with a quick and efficient tool to inspect any link's browsing status. By inputting a link, users are instantly informed about its safety credentials. The API essentially evaluates the header of the web link to discern its legitimacy and potential risks. Such a header checker is invaluable in today's cyber landscape, acting as a digital guardian for users.
+
