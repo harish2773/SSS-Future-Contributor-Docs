@@ -122,6 +122,19 @@ With the key in place, the gateway to generating prompts for the GPT-3 model is 
 
 More information can be found here: (<https://gist.github.com/harish2773/12df5134b39593966845ceab8860eb37>)
 
+## Click Bait API
+
+The digital realm, especially platforms like Twitter, Facebook, and YouTube, is replete with content vying for user attention. Amidst this vast ocean of information, a notable challenge is discerning genuine content from clickbait. Addressing this issue is the newly introduced functionality for a Chrome extension. Its primary objective is to scrutinize shared links across these platforms, evaluating them for clickbait characteristics. If a link is determined to be clickbait, the extension leaps into action, distinctly marking it as such. Users, therefore, receive a clear warning before engaging, fostering a more informed and clutter-free browsing experience. This feature not only ensures user protection from misleading content but also promotes a more genuine digital ecosystem.
+
+### Profanity Words Blur
+In the vast expanse of the internet, users often encounter content that may not be appropriate or preferred for all audiences. Addressing this challenge is the latest functionality designed for web browsers. This feature diligently scans web pages for words deemed as profanities. Leveraging a comprehensive database of potentially offensive terms, the system assesses the content in real-time. If any such terms are identified, the functionality takes immediate action. Instead of outright removal, it subtly blurs these words, ensuring the surrounding content remains coherent. This not only ensures a comfortable browsing experience for users but also gives them the choice to view content based on their comfort level, promoting a safer and more user-centric digital space.
+
+### Objectionable website alert
+Upon visiting a news website, users immediately receive a Chrome notification. This alert provides vital details about the site, including its potential bias and ownership. Such features enhance transparency and empower users to better understand the source of their information, ensuring a more informed and discerning browsing experience.
+
+More information can be founf here: (<https://gitlab.com/aossie/social-street-smart/-/blob/gsoc-2023/Docs/GSoC/2019/GSoC-'19_Utsav%20Shukla.md?ref_type=heads>)
+
+
 
 
 
