@@ -112,6 +112,16 @@ More information can be found here: (<https://gitlab.com/aossie/social-street-sm
 
 In the previous deployment of our Chrome extension, the tool could identify and label posts deemed as toxic or clickbaits. However, it merely flagged them without taking the further step of concealing them from users. Recognizing the potential for enhancing user experience, this year brought about an important upgrade: the auto-hiding/unhiding feature. Instead of users manually hiding flagged content, the extension now automatically does this for them. If a post is identified as potentially harmful or misleading, it is immediately hidden, though users retain the power to unhide if they choose. The result of this feature is a more streamlined and relevant browsing experience, minimizing distractions and ensuring that users encounter only content that aligns with their preferences and values.
 
+## Context Analysis API
+
+The incorporation of the OpenAI GPT-3 API into the platform has opened a new frontier for users seeking to validate the authenticity and content of news articles. This fusion of technology provides users with the capability to delve deeper, ensuring that they have accurate and unbiased information at their fingertips.
+
+To harness this feature, there's an initial step users must undertake: inputting their exclusive API key. This is done through the settings page of the Chrome extension, a straightforward process designed for user ease. Once entered, rest assured, this key is safeguarded with utmost priority, stored securely within the local confines of the Chrome browser.
+
+With the key in place, the gateway to generating prompts for the GPT-3 model is unlocked. Each user, with their authenticated API key, has the capacity to generate as many as 30 prompts. What follows is the brilliance of AI: the GPT-3 model processes the prompts and outputs in-depth responses. These responses, exhibited to the users, are not just mere information. They serve as profound insights and critical analyses, shedding light on the nuances and veracity of the selected news article, thus aiding in informed decision-making.
+
+More information can be found here: (<https://gist.github.com/harish2773/12df5134b39593966845ceab8860eb37>)
+
 
 
 
