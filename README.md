@@ -19,6 +19,12 @@ The rise of the Internet has also birthed challenges such as abusive language, f
 
 The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
 
+# Project Links
+
+- Social Street Smart Extension Repository: <https://gitlab.com/aossie/social-street-smart/-/tree/gsoc-2023?ref_type=heads>
+- Social Street Smart API Repository : <https://gitlab.com/aossie/social-street-smart-api/-/tree/gsoc-2023?ref_type=heads>
+- Chrome Extension on Webstore: <https://chrome.google.com/webstore/detail/social-street-smart/ddjcjpfkmcgpgpjhlmdenmionhbnpagm>
+
 # APIs developed so far
 
 
