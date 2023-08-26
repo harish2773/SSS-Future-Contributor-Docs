@@ -74,3 +74,8 @@ The tool allows users to search the web for any image's usage. It provides data 
 The Disinformation in Images API requires you to generate a set of custom API keys for yourself.
 - Please follow these steps to obtain a JSON file containing your API keys: https://youtu.be/1Oz5TfwvhfQ.
 - You can then input this JSON file on the settings page of Social Street Smart's Chrome Extension.
+
+## SSL Validator API
+In our modern digital age, the Internet is rife with potential threats and cyber-attacks. SSL certificates serve as a digital shield, ensuring the safe transmission of user data over the web. More than just data protection, they thwart malicious actors from replicating or 'spoofing' genuine websites. Moreover, these certificates authenticate and confirm the legitimacy of website ownership, providing an additional layer of trust. Recognizing the importance of such verification, I launched the SSL Validator API this summer. This tool empowers users by allowing them to input any web link, subsequently retrieving detailed information about its associated SSL certificate, fostering confidence in online interactions.
+
+More information can be found here: (GSoC 2022 Docs<https://gitlab.com/aossie/social-street-smart/-/blob/gsoc-2023/Docs/GSoC/2022/DivyanshuSingh.md?ref_type=heads>)
