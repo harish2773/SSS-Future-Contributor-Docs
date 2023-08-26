@@ -134,6 +134,12 @@ Upon visiting a news website, users immediately receive a Chrome notification. T
 
 More information can be founf here: (<https://gitlab.com/aossie/social-street-smart/-/blob/gsoc-2023/Docs/GSoC/2019/GSoC-'19_Utsav%20Shukla.md?ref_type=heads>)
 
+# Serverless Deployment of API's
+
+Future contributors are encouraged to develop more APIs. They can deploy these using serverless frameworks and AWS Lambda, ensuring scalability and efficiency.
+
+More on this here: <https://www.serverless.com/blog/flask-serverless-api-in-aws-lambda-the-easy-way>
+
 
 
 
