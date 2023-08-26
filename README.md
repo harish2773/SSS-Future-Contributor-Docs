@@ -2,6 +2,10 @@
 
 The rise of the Internet has also birthed challenges such as abusive language, fake news, click-baits, and security threats. Fake news, in particular, can skew perceptions and influence major events like elections. Click-baits, with sensationalized headlines, waste users' time by not delivering promised content. Malicious websites pose security risks, targeting unsuspecting users. This project aims to develop a Chrome Extension to safeguard users, ensuring a more informed, productive, and safer online experience.
 
+<p align="center">
+  <img src="[https://i.imgur.com/fF5RFGo.png](https://gitlab.com/uploads/-/system/project/avatar/2314503/AOSSIE_logo_04.png)" />
+</p>
+
 
 # Tech Stack and Skills Used
 
