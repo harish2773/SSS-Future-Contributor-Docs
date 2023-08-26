@@ -25,6 +25,8 @@ The file explorer is accessible using the button in left corner of the navigatio
 - Social Street Smart API Repository : <https://gitlab.com/aossie/social-street-smart-api/-/tree/gsoc-2023?ref_type=heads>
 - Chrome Extension on Webstore: <https://chrome.google.com/webstore/detail/social-street-smart/ddjcjpfkmcgpgpjhlmdenmionhbnpagm>
 
+*Note*: Contributors are required to make merge requests to the GSoC 2023 branch
+
 # APIs developed so far
 
 
