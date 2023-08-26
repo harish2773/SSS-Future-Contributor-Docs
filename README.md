@@ -44,6 +44,10 @@ The file explorer is accessible using the button in left corner of the navigatio
 
 **Fake News/ API_manager.py **: app manager to handle DB migration and hosting.
 
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/WpVNZgHSiAVrU-DV1qfUU0rL5YFe_ibyfEG5oFpmqPHfkJ5xpnnuuXU6d_OqQZxTr2F-laJdyA4NLPZLnvBX5Cq6Dg=w640-h400-e365-rj-sc0x00ffffff" height="300" />
+</p>
+
 ## News Origin API
 
 **Profanity Word Blur**
